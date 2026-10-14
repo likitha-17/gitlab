@@ -1,3 +1,3 @@
 # gitlab
 this is my first repository
-experiment in the lab
+this is my first experiment
